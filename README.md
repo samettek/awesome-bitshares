@@ -76,6 +76,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 * [Twitter@bitsharesorg](https://twitter.com/bitsharesorg) - Content managed by bitshares.org owner.
 * [Twitter#BitShares](https://twitter.com/search?q=%23BitShares) - #BitShares tagged on Twitter.
 * [Twitter#bitshares](https://twitter.com/search?q=%23bitshares) - #bitshares tagged on Twitter.
+* [Twitter#bitshares](https://twitter.com/search?q=%23thisisbitshares) - #thisisbitshares tagged on Twitter. 
 * [Reddit#bitshares](https://reddit.com/r/bitshares) - Reddit sub-reddit for BitShares.
 * Telegram:
   * [BitShares DAC](https://t.me/BitSharesDAC) - General discussions.
